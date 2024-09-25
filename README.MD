@@ -5,4 +5,5 @@ Lai atvērtu .drawio failus, saglabājat tos uz jūsu datora, apmeklējat [draw.
 
 # Nodarbības
 
-## 1. Mainīgie, Ievade, izvade
+## 1. Mainīgie, ievade, izvade
+## 2. Saraksti, cikli
