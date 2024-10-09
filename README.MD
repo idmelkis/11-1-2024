@@ -1,4 +1,4 @@
-11-6 (11f)
+11-1 (11a)
 ===
 
 Lai atvērtu .drawio failus, saglabājat tos uz jūsu datora, apmeklējat [draw.io](https://app.diagrams.net/) vietni un atverat tos tur.
