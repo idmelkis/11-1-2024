@@ -10,3 +10,4 @@ Lai atvērtu .drawio failus, saglabājat tos uz jūsu datora, apmeklējat [draw.
 ## 3. Atkļūdošana, cikli
 ## 4. Cikli
 ## 5. Funkcijas
+## 6. Kontroldarbs
