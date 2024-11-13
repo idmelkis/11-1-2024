@@ -12,3 +12,4 @@ Lai atvērtu .drawio failus, saglabājat tos uz jūsu datora, apmeklējat [draw.
 ## 5. Funkcijas
 ## 6. Kontroldarbs
 ## 7. Vārdnīcas
+## 8. Vārdnīcas
