@@ -17,3 +17,6 @@ Lai atvērtu .drawio failus, saglabājat tos uz jūsu datora, apmeklējat [draw.
 ### 10. Faili
 ### 11. Faili
 ### 12. Kontroldarbs
+
+## 2. Semestris
+### 13. Klases
