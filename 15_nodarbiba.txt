@@ -1,0 +1,38 @@
+1. Izveidojat klasi "Grozs". 
+
+Šī klase satur preces un to daudzumu. 
+Klasei jānodrošina funkcijas, kas ļauj pievienot preces, izņemt 
+preces un aprēķināt groza kopējo vērtību.
+
+Precēm var izveidot klasi "Prece" 
+(Šī klase satur preces nosaukumu un cenu -
+ abas vērtības uzstāda šīs klases init funkcijā)
+
+2. Doti sekojoši dati: 
+ID	Vārds	Alga (mēn)	Amats	Nostrādāts (mēn)
+"01", "Jānis", 1000, "Slotas operators", 24
+"02", "Ēriks", 2000, "Tirgotājs",	30
+"03", "Anna",  500,  "Laborante",	2
+"04", "Kārlis", 9001, "Direktors", 36
+
+Izveidojat klasi, kura pieņem katru rindu kā parametrus inicializatora funkcijai
+Izveidojat objektus, kas satur visus dotos datus
+Izveidojat funkciju, kura izvada objekta (darbinieka) datus
+Izveidojat funkciju, kas aprēķina cik daudz naudas ir izmaksāts darbiniekam
+
+3. Izveidojat klasi "Darbinieks". Šī klase satur informāciju par vārdu, uzvārdu, stāžu (mēnesī),
+algu, un amatu. Jānodefinē funkcija 'aprēķiniBonusu', ka izvada 0, un 'aprēķiniKopAlgu', 
+kas izvada algas un stāža reizinājumu + bonuss.
+Lai aprēķinātu bonusu, izveidojat apakšklases sekojošajiem darbinieku amatiem - 
+ - Menedžeris. Apakšklasei jāizseko tam cik daudz darbinieki ir zem šī menedžera. 
+   Bonuss ir darbinieku skaits * 100.
+ - Programmētājs. Apakšklasei jāizseko projekta nosaukums (str), 
+   kuram darbinieks ir piesaistīts. Bonuss ir 10% no algas.
+ - Testētājs. Apakšklasei jāizseko projekta nosaukums,
+   kuram darbinieks ir piesaistīts, 
+   kā arī nostrādātais stundu skaits mēneša laikā šajā gadā. 
+   aprēķiniKopAlgu funkcija izvada nostrādāto stundu skaitu * 7. 
+   Bonuss - 5% no aprēķinātās algas.
+
+Izprintējot klasi, jāizvada Darbinieka informācija - 
+ vārds, uzvārds un alga ieskaitot bonusus.
