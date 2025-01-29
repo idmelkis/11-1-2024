@@ -22,3 +22,4 @@ Lai atvērtu .drawio failus, saglabājat tos uz jūsu datora, apmeklējat [draw.
 ### 13. Klases
 ### 14. Klases
 ### 15. Klases
+### 16. Klases

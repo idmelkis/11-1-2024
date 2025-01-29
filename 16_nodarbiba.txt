@@ -1,0 +1,9 @@
+1. Izveidojat klasi Restorāns. Šai klasei vajag saturēt informāciju par 
+* pieejamajiem ēdieniem un to cenu (ēdienkarte). ({'nosaukums': cena})
+* pieejamajiem galdiņiem, un vai tie ir aizņemti. (Numurs, Aizņemts, Pirkumi)
+  * Galdiņa pirkumiem
+Izveidojat funkcijas, kas
+* Ļauj pievienot ēdienus pie ēdienkartes
+* Izvada ēdienkarti
+* Ļauj norezervēt galdiņu (atzīmē to kā aizņemtu - ja tas nav jau norezervēts)
+* Reģistrēt galdiņa pirkumus (ja galdiņš ir aizņemts - pievienot ēdienu pie pirkumu saraksta)
