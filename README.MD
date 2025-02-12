@@ -24,3 +24,4 @@ Lai atvērtu .drawio failus, saglabājat tos uz jūsu datora, apmeklējat [draw.
 ### 15. Klases
 ### 16. Klases
 ### 17. Kontroldarbs
+### 18. Datu bāzes
