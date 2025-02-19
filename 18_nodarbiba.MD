@@ -9,6 +9,7 @@ Tabulas izveide -- CREATE TABLE
 Ievietošana -- INSERT  
 Atjaunošana -- UPDATE  
 Dzēšana     -- DELETE
+Datu iegūšana -- SELECT
 
 (Bilde)[https://planetscale.com/assets/blog/content/schema-design-101-relational-databases/db72cc3ac506bec544588454972113c4dc3abe50-1953x1576.png]
 Piemērs vaicājumam:
