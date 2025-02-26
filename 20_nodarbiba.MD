@@ -54,6 +54,9 @@ CREATE TABLE IF NOT EXISTS "DarbiniekaProjekti" (
 	FOREIGN KEY("Darbinieka_Id") REFERENCES "Darbinieks"("Id") ON DELETE RESTRICT,
 	FOREIGN KEY("Projekta_Id") REFERENCES "Projekts"("Id") ON DELETE RESTRICT
 );
+-- Piemēra dati
+INSERT INTO "Projekts" ("Nosaukums") VALUES ("123");
+INSERT INTO "DarbiniekaProjekti" ("Darbinieka_Id", "Projekta_Id") VALUES (1, 1);
 ```
 
 Nākošajā nodarbībā - JOINS & Unions
