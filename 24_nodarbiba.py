@@ -64,11 +64,12 @@ def lietotaja_autorizacija(cursor :sqlite3.Cursor) -> Lietotajs:
 # Pievienot profila funkcionalitāti.
 # 1. Izveidot jaunu tabulu (Profils) - 
 # Lauki - Id, LietotajaId, Vards, Uzvards, ParMani
-# LietotajaId vajadzētu būt saistīts ar Lietotajs.Id (ON DELETE CASCADE)
+# LietotajaId vajadzētu būt saistīts ar Lietotajs.Id (FOREIGN KEY - ON DELETE CASCADE)
 
 # Ja lietotājs programmā ir autentificējies, tad
 # Lietotājam vajadzētu varēt izvadīt savu profilu (ja tāds ir).
 # Lietotājam vajadzētu varēt izveidot vai izmainīt (ja tāds ir) savu profilu.
+# Pieņemt, ka pagaidām lietotājam ir viens profils
 
 lietotajs = None
 while True:
