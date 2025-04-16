@@ -1,8 +1,6 @@
 11-1 (11a)
 ===
 
-Lai atvērtu .drawio failus, saglabājat tos uz jūsu datora, apmeklējat [draw.io](https://app.diagrams.net/) vietni un atverat tos tur.
-
 # Nodarbības
 ## 1. Semestris
 ### 1. Mainīgie, ievade, izvade
@@ -31,3 +29,5 @@ Lai atvērtu .drawio failus, saglabājat tos uz jūsu datora, apmeklējat [draw.
 ### 22. Datu bāzes (SQL)
 ### 23. Datu bāzes (Python)
 ### 24. Datu bāzes (Python)
+### 25. Datu bāzes (Python)
+### 26. Kontroldarbs
